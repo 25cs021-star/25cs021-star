@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**25cs021-star/25cs021-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year student exploring the world of programming — currently learning **C language** and building my foundation one line at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm up to
+
+* Learning the basics of C
+* Exploring problem-solving and logic building
+* Experimenting with simple console projects
+
+---
+
+### 💡 Goals
+
+* Understand how computers *really* think
+* Build something small but meaningful
+* Keep learning — every day, a bit better
+
+---
+
+### 🛠️ Tech Stack
+
+`C` (learning in progress)
+
+---
+
+### ✨ Fun fact
+
+Every great developer once printed their first `"Hello, World!"`
+
+---
+
+*Thanks for visiting! Feel free to connect or check out my future projects.*
+
