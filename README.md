@@ -1,4 +1,4 @@
-# Hi, I'm Dharmi Italiya
+# Hi👋, I'm Dharmi Italiya
 
 I'm a first-year student exploring the world of programming — currently learning **C language** and building my foundation one line at a time.
 
